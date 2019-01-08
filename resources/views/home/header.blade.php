@@ -1,10 +1,11 @@
 <!doctype html>
-<html class="no-js" lang="en">
+<html class="no-js" lang="zh-cn">
 <head>
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>Home</title>
-<meta name="description" content="">
+<title>三角带批发厂家价格_欧皮特三角带_</title>
+<meta name="keywords" content="三角带_欧皮特optibelt三角带_三角带价格_三角带厂家_三角带代理">
+<meta name="description" content="进口三角带,国产三角带零售招代理,直接国外进口,常年报关进口各种类型三角带">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Place favicon.ico in the root directory -->
 <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
@@ -44,8 +45,8 @@
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-4">
                 <div class="welcome">
-                    <span class="phone">Phone: +12345 67890</span> <span class="hidden-sm">/</span>
-                    <span class="email hidden-sm">Email: yourname@domain.com</span>
+                    <span class="phone">三角带购买电话: 156-0185-2720</span> <span class="hidden-sm">/</span>
+                    <span class="email hidden-sm">Email: 2581133606@qq.com</span>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-8">
@@ -60,10 +61,10 @@
                         </li>
                     </ul>
                     <ul>
-                        <li><a href="#">My Account</a></li>
-                        <li><a href="#">Wishlist</a></li>
-                        <li><a href="#">Shopping cart</a></li>
-                        <li><a href="#">Checkout</a></li>
+                        <li><a href="#">三角带批发</a></li>
+                        <li><a href="#">三角带代理</a></li>
+                        <li><a href="#">三角带零售</a></li>
+                        <li><a href="#">三角带询价</a></li>
                     </ul>
                 </div>
             </div>
@@ -85,10 +86,10 @@
                     <div class="col-lg-6 col-md-5 col-sm-5 col-xs-6 hidden-xs">
                         <div class="header-search">
                             <select>
-                                <option value="0">All Categories</option>
-                                <option value="1">Women's Clothing &amp; Accessories</option>
-                                <option value="2">Men's Clothing &amp; Accessories</option>
-                                <option value="0">Phones &amp; Telecommunications</option>
+                                <option value="0">所有三角带型号大全</option>
+                                <option value="1">欧皮特三角带 &amp; optibelt同步带</option>
+                                <option value="2">进口三角带 &amp; 进口三角带批发代理零售</option>
+                                <option value="0">国产三角带 &amp; 三力士三角带</option>
                                 <option value="0">Computer &amp; Office</option>
                                 <option value="0">Consumer Electronics</option>
                                 <option value="0">Jewelry &amp; Accessories</option>
@@ -116,7 +117,7 @@
                                 <option value="0">Security &amp; Protection</option>
                                 <option value="0">In All Categories</option>
                             </select>
-                            <input type="text" placeholder="search product..." />
+                            <input type="text" placeholder="查询三角带型号" />
                             <button><i class="fa fa-search"></i></button>
                         </div>
                     </div>
@@ -197,11 +198,11 @@
                         <div class="main-menu">
                             <nav>
                                 <ul>
-                                    <li><a href="">Home</a></li>
-                                    <li><a href="{{ asset('/') }}">About</a></li>
-                                    <li><a href="{{ asset('/shoplist') }}">Shop List</a></li>
-                                    <li><a href="{{ asset('/single') }}">Single Product</a></li>
-                                    <li><a href="{{ asset('/contact') }}">Contact</a></li>
+                                    <li><a href="{{ asset('') }}">三角带厂家</a></li>
+                                    <li><a href="{{ asset('/about') }}">三角带规格型号</a></li>
+                                    <li><a href="{{ asset('/shoplist') }}">进口三角带</a></li>
+                                    <li><a href="{{ asset('/single') }}">三角带批发零售</a></li>
+                                    <li><a href="{{ asset('/contact') }}">三角带介绍</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -321,7 +322,7 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="copyright">
-                            <p>Copyright &copy; 2017.Company name All rights reserved.<a target="_blank" href="http://sc.chinaz.com/moban/">&#x7F51;&#x9875;&#x6A21;&#x677F;</a></p>
+                            <p>Copyright &copy; 2019.三角带公司 All rights reserved.<a target="_blank" href="">三角带厂家_三角带代理_三角带批发</a></p>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6">
