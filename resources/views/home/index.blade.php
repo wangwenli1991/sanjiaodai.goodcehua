@@ -20,7 +20,7 @@
                         data-endelementdelay="0.1" data-endspeed="500" data-endeasing="Power4.easeIn"
                         style="z-index: 5; color: #fff; text-align: left !important; line-height: 100%;
                         font-size: 60px; letter-spacing: 6px; text-transform: uppercase; font-weight: 900;">
-                        the best collection for 2016
+                        我们进口各种型号的三角带,同步带,欧皮特optibelt
                     </div>
                     <!-- LAYERS 3-->
                     <div class="tp-caption skewfromrightshort skewtorightshort tp-resizeme splitted"
@@ -30,7 +30,7 @@
                         font-size: 35px; line-height: 30px; text-transform: none; font-weight: 400; letter-spacing: 4px;
                         color: #fff; text-align: right !important; max-width: auto; max-height: auto;
                         white-space: nowrap;">
-                        Fashion show with designer
+                        国产三力士三角带,购买的方式非常灵活,可以批量购买,也可以买一个试一下,服务到位
                     </div>
                     <div class="tp-caption tp-fade fadeout tp-resizeme" data-x="center" data-hoffset="0"
                         data-y="center" data-voffset="75" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
@@ -39,7 +39,7 @@
                         style="z-index: 7;">
                         <a class="btn btn-default btn-icon" style="font-size: 15px; text-align: left !important;
                             padding: 12px 22px; font-weight: bold; color: #313131; text-transform: uppercase;
-                            line-height: 24px;" href="#">Shop Now<i class="fa fa-long-arrow-right"></i></a>
+                            line-height: 24px;" href="#">欧皮特三力士三角带一级代理经销商<i class="fa fa-long-arrow-right"></i></a>
                     </div>
                 </li>
                 <li data-transition="fade" data-slotamount="7" data-masterspeed="300" data-saveperformance="on">
@@ -53,7 +53,7 @@
                         data-endelementdelay="0.1" data-endspeed="500" data-endeasing="Power4.easeIn"
                         style="z-index: 5; color: #fff; text-align: left !important; line-height: 100%;
                         font-size: 60px; letter-spacing: 6px; text-transform: uppercase; font-weight: 900;">
-                        Buy To Get 15% Discount
+                        零售购方便,批量购买价格优惠
                     </div>
                     <!-- LAYERS 3-->
                     <div class="tp-caption skewfromrightshort skewtorightshort tp-resizeme splitted"
@@ -63,7 +63,7 @@
                         font-size: 35px; line-height: 30px; text-transform: none; font-weight: 400; letter-spacing: 4px;
                         color: #fff; text-align: right !important; max-width: auto; max-height: auto;
                         white-space: nowrap;">
-                        fantastic women's cloths
+                        欧皮特三角带,同步带,活络带,输送带,传送带等各种型号的产品
                     </div>
                     <div class="tp-caption tp-fade fadeout tp-resizeme" data-x="center" data-hoffset="0"
                         data-y="center" data-voffset="65" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
@@ -72,7 +72,7 @@
                         style="z-index: 7;">
                         <a class="btn btn-default btn-icon" style="font-size: 15px; text-align: left !important;
                             padding: 12px 22px; font-weight: bold; color: #313131; text-transform: uppercase;
-                            line-height: 24px;" href="#">Shop Now<i class="fa fa-long-arrow-right"></i></a>
+                            line-height: 24px;" href="#">三角带询价<i class="fa fa-long-arrow-right"></i></a>
                     </div>
                 </li>
             </ul>
