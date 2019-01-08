@@ -79,7 +79,7 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                         <div class="logo">
-                            <a href=""><img src="img/logo/logo.png" alt="" /></a>
+                            <a href=""><img src="{{ asset('index/img/logo/logo.png') }}" alt="" /></a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-5 col-sm-5 col-xs-6 hidden-xs">
@@ -134,7 +134,7 @@
                                 <ul>
                                     <li>
                                         <div class="cart-img">
-                                            <a href="#"><img src="img/cart/total-cart.jpg" alt="" /></a>                                                
+                                            <a href="#"><img src="{{ asset('index/img/cart/total-cart.jpg') }}" alt="" /></a>                                                
                                         </div>
                                         <div class="cart-info">
                                             <h4><a href="#">Vestibulum suscipit</a></h4>
@@ -146,7 +146,7 @@
                                     </li>
                                     <li>
                                         <div class="cart-img">
-                                            <a href="#"><img src="img/cart/total-cart.jpg" alt="" /></a>                                                
+                                            <a href="#"><img src="{{ asset('index/img/cart/total-cart.jpg') }}" alt="" /></a>                                                
                                         </div>
                                         <div class="cart-info">
                                             <h4><a href="#">Vestibulum suscipit</a></h4>
@@ -251,7 +251,7 @@
                     <!-- footer-widget start -->
                     <div class="col-lg-3 col-md-3 col-sm-4">
                         <div class="footer-widget">
-                            <img src="{{ asset(' /index/img/logo/logo-2.png') }}" alt="" />
+                            <img src="{{ asset('/index/img/logo/logo-2.png') }}" alt="" />
                             <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. .</p>
                             <div class="widget-icon">
                                 <a href="#"><i class="fa fa-facebook"></i></a>
@@ -326,7 +326,7 @@
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="payment-img">
-                            <img src="img/payment.png" alt="" />
+                            <img src="{{ asset('index/img/payment.png') }}" alt="" />
                         </div>
                     </div>
                 </div>
@@ -345,8 +345,8 @@
 <!-- jquery-ui js -->
 <script src="{{ asset('index/js/jquery-ui.min.js') }}"></script>
 <!-- RS-Plugin JS -->
-<script type="{{ asset('index/text/javascript') }}" src="{{ asset('index/lib/rs-plugin/js/jquery.themepunch.tools.min.js') }}"></script>
-<script type="{{ asset('index/text/javascript') }}" src="{{ asset('index/lib/rs-plugin/js/jquery.themepunch.revolution.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('index/lib/rs-plugin/js/jquery.themepunch.tools.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('index/lib/rs-plugin/js/jquery.themepunch.revolution.min.js') }}"></script>
 <script src="{{ asset('index/lib/rs-plugin/rs.home.js') }}"></script>
 <!-- meanmenu js -->
 <script src="{{ asset('index/js/jquery.meanmenu.js') }}"></script>

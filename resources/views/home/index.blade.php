@@ -228,8 +228,8 @@
                                         <div class="single-product">
                                             <div class="product-img">
                                                 <a href="single-product.html">
-                                                    <img class="primary-img" src="img/product/1.jpg" alt="" />
-                                                    <img class="secondary-img" src="img/product/2.jpg" alt="" />
+                                                    <img class="primary-img" src="{{asset('index/img/product/1.jpg') }}" alt="" />
+                                                    <img class="secondary-img" src="{{asset('index/img/product/2.jpg') }}" alt="" />
                                                 </a><span class="sale">sale</span>
                                                 <div class="product-action">
                                                     <div class="pro-button-top">
@@ -260,8 +260,8 @@
                                         <div class="single-product">
                                             <div class="product-img">
                                                 <a href="single-product.html">
-                                                    <img class="primary-img" src="img/product/12.jpg" alt="" />
-                                                    <img class="secondary-img" src="img/product/13.jpg" alt="" />
+                                                    <img class="primary-img" src="{{asset('index/img/product/12.jpg') }}" alt="" />
+                                                    <img class="secondary-img" src="{{asset('index/img/product/13.jpg') }}" alt="" />
                                                 </a>
                                                 <div class="product-action">
                                                     <div class="pro-button-top">
@@ -292,8 +292,8 @@
                                         <div class="single-product">
                                             <div class="product-img">
                                                 <a href="single-product.html">
-                                                    <img class="primary-img" src="img/product/5.jpg" alt="" />
-                                                    <img class="secondary-img" src="img/product/6.jpg" alt="" />
+                                                    <img class="primary-img" src="{{asset('index/img/product/5.jpg') }}" alt="" />
+                                                    <img class="secondary-img" src="{{asset('index/img/product/6.jpg') }}" alt="" />
                                                 </a><span class="sale">sale</span>
                                                 <div class="product-action">
                                                     <div class="pro-button-top">
@@ -324,8 +324,8 @@
                                         <div class="single-product">
                                             <div class="product-img">
                                                 <a href="single-product.html">
-                                                    <img class="primary-img" src="img/product/14.jpg" alt="" />
-                                                    <img class="secondary-img" src="img/product/15.jpg" alt="" />
+                                                    <img class="primary-img" src="{{asset('index/img/product/14.jpg') }}" alt="" />
+                                                    <img class="secondary-img" src="{{asset('index/img/product/15.jpg') }}" alt="" />
                                                 </a>
                                                 <div class="product-action">
                                                     <div class="pro-button-top">
@@ -1233,55 +1233,55 @@
                 <div class="col-lg-12">
                     <div class="single-brand">
                         <a href="#">
-                            <img src="img/brand/1.png" alt="" /></a>
+                            <img src="{{ asset('index/img/brand/1.png') }}" alt="" /></a>
                     </div>
                 </div>
                 <div class="col-lg-12">
                     <div class="single-brand">
                         <a href="#">
-                            <img src="img/brand/1.png" alt="" /></a>
+                            <img src="{{ asset('index/img/brand/1.png') }}" alt="" /></a>
                     </div>
                 </div>
                 <div class="col-lg-12">
                     <div class="single-brand">
                         <a href="#">
-                            <img src="img/brand/1.png" alt="" /></a>
+                            <img src="{{ asset('index/img/brand/1.png') }}" alt="" /></a>
                     </div>
                 </div>
                 <div class="col-lg-12">
                     <div class="single-brand">
                         <a href="#">
-                            <img src="img/brand/1.png" alt="" /></a>
+                            <img src="{{ asset('index/img/brand/1.png') }}" alt="" /></a>
                     </div>
                 </div>
                 <div class="col-lg-12">
                     <div class="single-brand">
                         <a href="#">
-                            <img src="img/brand/1.png" alt="" /></a>
+                            <img src="{{ asset('index/img/brand/1.png') }}" alt="" /></a>
                     </div>
                 </div>
                 <div class="col-lg-12">
                     <div class="single-brand">
                         <a href="#">
-                            <img src="img/brand/1.png" alt="" /></a>
+                            <img src="{{ asset('index/img/brand/1.png') }}" alt="" /></a>
                     </div>
                 </div>
                 <div class="col-lg-12">
                     <div class="single-brand">
                         <a href="#">
-                            <img src="img/brand/1.png" alt="" /></a>
+                            <img src="{{ asset('index/img/brand/1.png') }}" alt="" /></a>
                     </div>
                 </div>
                 <div class="col-lg-12">
                     <div class="single-brand">
                         <a href="#">
-                            <img src="img/brand/1.png" alt="" /></a>
+                            <img src="{{ asset('index/img/brand/1.png') }}" alt="" /></a>
                     </div>
                 </div>
                 <div class="col-lg-12">
                     <div class="single-brand">
                         <a href="#">
-                            <img src="img/brand/1.png" alt="" /></a>
+                            <img src="{{ asset('index/img/brand/1.png') }}" alt="" /></a>
                     </div>
                 </div>
             </div>
