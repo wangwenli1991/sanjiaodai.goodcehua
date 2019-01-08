@@ -11,6 +11,33 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/', 'home\HomeController@index');
+Route::get('/about', 'home\AboutController@index');
+Route::get('/shoplist', 'home\ShoplistController@index');
+Route::get('/single', 'home\SingleController@index');
+Route::get('/contact', 'home\ContactController@index');
+
+
+
+
+
+
+
+
+
+Route::get('/admin1','Admin\AdminController@index');
+
+
+
+Route::get('/admin', 'Admin\AdminController@index');
+
+
+
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
