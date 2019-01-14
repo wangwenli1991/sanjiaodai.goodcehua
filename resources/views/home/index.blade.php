@@ -1074,15 +1074,14 @@
     <div class="container">
         <div class="subscribe-title">
             <h3>
-                <span>Subscribe</span>to our newsletter</h3>
+                <span>订购询价</span>传送带,三角带,同步带,毛毡带</h3>
             <p>
-                Subscribe to the Expert mailing list to receive updates on new arrivals, special
-                offers and other discount information.</p>
+                如果需要订购,询价各种产品,请打电话给我们,我们会第一时间对你进行联系,并报价</p>
             <form action="#">
             <div class="subscribe-form">
                 <input type="text" placeholder="Your Email........." />
                 <button>
-                    subscribe</button>
+                    确定询价</button>
             </div>
             </form>
         </div>
@@ -1111,14 +1110,13 @@
                         </div>
                         <div class="latest-blog-content">
                             <h3>
-                                <a href="#">Nam liber tempor cum soluta</a></h3>
+                                <a href="#">三角带根据什么定价的</a></h3>
                             <div class="meta">
-                                <span class="post-category">in <a href="#">Uncategorized</a></span> <span class="meta-border">
+                                <span class="post-category">in <a href="#">三角带价格</a></span> <span class="meta-border">
                                     |</span> <span class="time"><i class="fa fa-clock-o"></i>Oct 31, 2014</span>
                             </div>
                             <p>
-                                Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming
-                                id quod mazim placerat facer possim assum. ...
+                                严格来说,三角带属于动力带,而不属于传送带,国内流行的三角带品牌有欧皮特OPTIBLET,芬纳,三力士等
                             </p>
                         </div>
                     </div>
@@ -1133,14 +1131,13 @@
                         </div>
                         <div class="latest-blog-content">
                             <h3>
-                                <a href="#">Nam liber tempor cum soluta</a></h3>
+                                <a href="#">国内著名传送带厂家哪里可以找到</a></h3>
                             <div class="meta">
-                                <span class="post-category">in <a href="#">Uncategorized</a></span> <span class="meta-border">
+                                <span class="post-category">in <a href="#">传送带厂家</a></span> <span class="meta-border">
                                     |</span> <span class="time"><i class="fa fa-clock-o"></i>Oct 31, 2014</span>
                             </div>
                             <p>
-                                Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming
-                                id quod mazim placerat facer possim assum. ...
+                                不管是国内资产的传送带,还是国外的传送带,采购在选购的时候,总是挑选成本最低的那一个选择
                             </p>
                         </div>
                     </div>
@@ -1155,14 +1152,13 @@
                         </div>
                         <div class="latest-blog-content">
                             <h3>
-                                <a href="#">Nam liber tempor cum soluta</a></h3>
+                                <a href="#">毛毡传送带在国内发展的怎么样</a></h3>
                             <div class="meta">
                                 <span class="post-category">in <a href="#">Uncategorized</a></span> <span class="meta-border">
                                     |</span> <span class="time"><i class="fa fa-clock-o"></i>Oct 31, 2014</span>
                             </div>
                             <p>
-                                Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming
-                                id quod mazim placerat facer possim assum. ...
+                                毛毡传送带又称毛毡带,毛毡垫,可以作为传送带使用,也可以作为切割机垫,具有很多优良 的性能,分为单面毛毡带和多面毛毡带等
                             </p>
                         </div>
                     </div>
