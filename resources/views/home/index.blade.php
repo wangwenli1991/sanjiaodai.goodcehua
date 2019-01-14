@@ -152,9 +152,9 @@
                     </div>
                     <div class="service-text">
                         <h2>
-                            Call Free</h2>
+                            三角带批发联系方式</h2>
                         <p>
-                            Call us 24/7 at 000 - 123 - 456</p>
+                            我们的工厂在山东泰安,同时经营其他品牌传送带代理optibelt,derco,芬纳等</p>
                     </div>
                 </div>
             </div>
@@ -167,9 +167,9 @@
                     </div>
                     <div class="service-text">
                         <h2>
-                            free shipping worldwide</h2>
+                            输送带物流政策</h2>
                         <p>
-                            On order over $150 - 7 days a week</p>
+                            零售物流带等皮带都有现货,批发代理动力带需要提前预定,工厂定做都要提前预定</p>
                     </div>
                 </div>
             </div>
@@ -182,9 +182,9 @@
                     </div>
                     <div class="service-text">
                         <h2>
-                            money back guaratee!</h2>
+                            传送带问题</h2>
                         <p>
-                            Send within 30 days</p>
+                            动力带输送带等日产使用遇到问题,需要提前联系,维修费用由客户自己承担</p>
                     </div>
                 </div>
             </div>
@@ -200,7 +200,7 @@
             <div class="col-lg-12">
                 <div class="section-title text-center">
                     <h2>
-                        features product</h2>
+                        三角带厂家种类</h2>
                 </div>
             </div>
         </div>
@@ -210,13 +210,13 @@
                     <!-- Nav tabs -->
                     <ul class="tab-menu" role="tablist">
                         <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab"
-                            data-toggle="tab">New arrivals</a></li>
+                            data-toggle="tab">传送带品牌列表</a></li>
                         <li role="presentation"><a href="#men" aria-controls="men" role="tab" data-toggle="tab">
-                            men</a></li>
+                            三角带品牌列表</a></li>
                         <li role="presentation"><a href="#women" aria-controls="women" role="tab" data-toggle="tab">
-                            women</a></li>
+                            同步带</a></li>
                         <li role="presentation"><a href="#kids" aria-controls="kids" role="tab" data-toggle="tab">
-                            kids</a></li>
+                            硅胶带</a></li>
                     </ul>
                     <!-- Tab panes -->
                     <div class="tab-content">
@@ -396,7 +396,7 @@
                                                 <a href="single-product.html">
                                                     <img class="primary-img" src="img/product/11.jpg" alt="" />
                                                     <img class="secondary-img" src="img/product/12.jpg" alt="" />
-                                                </a><span class="sale">sale</span>
+                                                </a><span class="sale">三角带分类</span>
                                                 <div class="product-action">
                                                     <div class="pro-button-top">
                                                         <a href="#">add to cart</a>
@@ -1096,7 +1096,7 @@
             <div class="col-lg-12">
                 <div class="section-title text-center">
                     <h2>
-                        Latest blog</h2>
+                        最新传送带文章</h2>
                 </div>
             </div>
         </div>
@@ -1224,7 +1224,7 @@
             <div class="col-lg-12">
                 <div class="section-title text-center">
                     <h2>
-                        Our Brands</h2>
+                         我们合作代理生产品牌</h2>
                 </div>
             </div>
         </div>

@@ -201,8 +201,8 @@
                                     <li><a href="{{ asset('') }}">三角带厂家</a></li>
                                     <li><a href="{{ asset('/about') }}">三角带规格型号</a></li>
                                     <li><a href="{{ asset('/shoplist') }}">进口三角带</a></li>
-                                    <li><a href="{{ asset('/single') }}">三角带批发零售</a></li>
-                                    <li><a href="{{ asset('/contact') }}">三角带介绍</a></li>
+                                    <li><a href="{{ asset('/single') }}">输送带型号</a></li>
+                                    <li><a href="{{ asset('/contact') }}">传送带介绍</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -219,11 +219,11 @@
                         <div class="mobile-menu">
                             <nav id="dropdown">
                                 <ul>
-                                    <li><a href="index.html">Home</a></li>
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="shop-list.html">Shop List</a></li>
-                                    <li><a href="single-product.html">Single Product</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="index.html">主页</a></li>
+                                    <li><a href="about.html">关于我们</a></li>
+                                    <li><a href="shop-list.html">皮带列表</a></li>
+                                    <li><a href="single-product.html">单个产品列表</a></li>
+                                    <li><a href="contact.html">联系我们</a></li>
                                 </ul>
                             </nav>
                         </div>                  
