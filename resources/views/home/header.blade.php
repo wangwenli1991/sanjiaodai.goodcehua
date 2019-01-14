@@ -90,31 +90,34 @@
                                 <option value="1">欧皮特三角带 &amp; optibelt同步带</option>
                                 <option value="2">进口三角带 &amp; 进口三角带批发代理零售</option>
                                 <option value="0">国产三角带 &amp; 三力士三角带</option>
-                                <option value="0">Computer &amp; Office</option>
-                                <option value="0">Consumer Electronics</option>
-                                <option value="0">Jewelry &amp; Accessories</option>
-                                <option value="0">Home &amp; Garden</option>
-                                <option value="0">Luggage &amp; Bags</option>
-                                <option value="0">Shoes</option>
-                                <option value="0">Mother &amp; Kids</option>
-                                <option value="0">Sports &amp; Entertainment</option>
-                                <option value="0">Health &amp; Beauty</option>
-                                <option value="0">Watches</option>
-                                <option value="0">Toys &amp; Hobbies</option>
-                                <option value="0">Weddings &amp; Events</option>
-                                <option value="0">Novelty &amp; Special Use</option>
-                                <option value="0">Automobiles &amp; Motorcycles</option>
-                                <option value="0">Lights &amp; Lighting</option>
-                                <option value="0">Furniture</option>
-                                <option value="0">Industry &amp; Business</option>
-                                <option value="0">Electronic Components &amp; Supplies</option>
-                                <option value="0">Office &amp; School Supplies</option>
-                                <option value="0">Electrical Equipment &amp; Supplies</option>
-                                <option value="0">Gifts &amp; Crafts</option>
-                                <option value="0">Home Improvement</option>
-                                <option value="0">Food</option>
-                                <option value="0">Travel and Coupons</option>
-                                <option value="0">Security &amp; Protection</option>
+                                <option value="0">欧皮特高速防油窄V带SPZ</option>
+                                <option value="0">欧皮特磨边齿型三角带</option>
+                                <option value="0">欧皮特三角带</option>
+                                <option value="0">欧皮特窄型三角带</option>
+                                <option value="0">欧皮特带型</option>
+                                <option value="0">欧皮特切边铸齿三角带</option>
+                                <option value="0">欧皮特带型</option>
+                                <option value="0">欧皮特六角带</option>
+                                <option value="0">欧皮特双面梯形齿</option>
+                                <option value="0">欧皮特磨边齿型三角带，XPZ，XPA，XPB，XPC，3VX，5VX，8VX</option>
+                                <option value="0">欧皮特三角带5,Y/6,8,Z/10,A/13,B/17,20,C/22,25,D/32,E/40
+</option>
+                                <option value="0">欧皮特窄型三角带:SPZ,SPA,SPB,SPC</option>
+                                <option value="0">欧皮特带型:3V/9N,5V/15N,8V/25N</option>
+                                <option value="0">欧皮特切边铸齿三角带:ZX/X10,AX/X13,BX/X17,CX/X22</option>
+                                <option value="0">欧皮特带型:XPZ,XPA,XPB,XPC,3VX/9NX,5VX/15NX</option>
+                                <option value="0">欧皮特六角带:AA/HAA,BB/HBB,CC/HCC,DD/HDD,22X22,25X22</option>
+                                <option value="0">欧皮特双面梯形齿：D-XL,D-L,D-H</option>
+                                <option value="0">欧皮特梯形齿同步带：MXL,XL,H,XH,XXH</option>
+                                <option value="0">欧皮特HTD圆弧齿带型：3M,5M,8M,14M,20M,D-5M,D-8M,D-14M STD</option>
+                                <option value="0">欧皮特双面圆弧齿: S3M,S5M,S8M,S14M,DS5M,DS8M,DS14M RPP</option>
+                                <option value="0">欧皮特同步带：RPP5,RPP8,RPP14,TP-RPP8,TP-RPP14 5MGT,8MGT,14MGT</option>
+                                <option value="0">欧皮特聚胺脂同步带公制带型：T2.5,T5,T10</option>
+                                <option value="0">欧皮特公制带型：AT-5,AT-10 公制双面带型：T5-D,T10-D</option>
+                                <option value="0">欧皮特英制带型：MXL,XL,L</option>
+                                <option value="0">欧皮特英制开口带型：XL,L,H,XH</option>
+                                <option value="0">欧皮特公制开口带型：8M,14M,T5,T10,T20,AT5,AT10,AT20</option>
+                           
                                 <option value="0">In All Categories</option>
                             </select>
                             <input type="text" placeholder="查询三角带型号" />
@@ -254,7 +257,7 @@
                         <div class="footer-widget">
                             <img src="{{ asset('/index/img/logo/logo-2.png') }}" alt="" />
                             <p>
-三角带批发价格一般按照国内行情价进行确定,批量购买价格要比单个购买优惠许多
+三角带批发价格一般按照国内行情价进行确定,批量购买价格要比单个购买优惠.
                             </p>
                             <div class="widget-icon">
                                 <a href="#"><i class="fa fa-facebook"></i></a>
