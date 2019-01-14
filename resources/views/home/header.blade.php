@@ -253,7 +253,9 @@
                     <div class="col-lg-3 col-md-3 col-sm-4">
                         <div class="footer-widget">
                             <img src="{{ asset('/index/img/logo/logo-2.png') }}" alt="" />
-                            <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. .</p>
+                            <p>
+三角带批发价格一般按照国内行情价进行确定,批量购买价格要比单个购买优惠许多
+                            </p>
                             <div class="widget-icon">
                                 <a href="#"><i class="fa fa-facebook"></i></a>
                                 <a href="#"><i class="fa fa-twitter"></i></a>
@@ -266,13 +268,13 @@
                     <!-- footer-widget start -->
                     <div class="col-lg-3 col-md-3 hidden-sm">
                         <div class="footer-widget">
-                            <h3>Our services</h3>
+                            <h3>购买三角带附带的服务</h3>
                             <ul class="footer-menu">
-                                <li><a href="#">Shipping & Returns</a></li>
-                                <li><a href="#">Secure Shopping</a></li>
-                                <li><a href="#">International Shipping</a></li>
-                                <li><a href="#">Affiliates</a></li>
-                                <li><a href="#">Contact</a></li>
+                                <li><a href="#">报价</a></li>
+                                <li><a href="#">规格说明</a></li>
+                                <li><a href="#">使用说明</a></li>
+                                <li><a href="#">维护保养</a></li>
+                                <li><a href="#">二次购买</a></li>
                             </ul>
                         </div>
                     </div>
@@ -280,13 +282,13 @@
                     <!-- footer-widget start -->
                     <div class="col-lg-3 col-md-3 col-sm-4">
                         <div class="footer-widget">
-                            <h3>Our services</h3>
+                            <h3>其它传送带种类</h3>
                             <ul class="footer-menu">
-                                <li><a href="#">Shipping & Returns</a></li>
-                                <li><a href="#">Secure Shopping</a></li>
-                                <li><a href="#">International Shipping</a></li>
-                                <li><a href="#">Affiliates</a></li>
-                                <li><a href="#">Contact</a></li>
+                                <li><a href="#">三角传送带</a></li>
+                                <li><a href="#">聚氨酯传送带</a></li>
+                                <li><a href="#">毛毡带</a></li>
+                                <li><a href="#">同步带</a></li>
+                                <li><a href="#">输送带</a></li>
                             </ul>
                         </div>
                     </div>
@@ -294,19 +296,19 @@
                     <!-- footer-widget start -->
                     <div class="col-lg-3 col-md-3 col-sm-4">
                         <div class="footer-widget">
-                            <h3>CONTACT US</h3>
+                            <h3>联系我们购买</h3>
                             <ul class="footer-contact">
                                 <li>
                                     <i class="fa fa-map-marker"> </i>
-                                    Addresss: 123 Pall Mall, London England
+                                    中国所有城市,上海市,山东省泰安市,其它城市等
                                 </li>
                                 <li>
                                     <i class="fa fa-envelope"> </i> 
-                                    Email: admin@themepure.net
+                                    Email: 2581133606@qq.com
                                 </li>
                                 <li>
                                     <i class="fa fa-phone"> </i>
-                                    Phone: +8801912 199981  
+                                    采购热线:156-0185-2720  
                                 </li>
                             </ul>
                         </div>
