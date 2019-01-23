@@ -204,7 +204,7 @@
                                 <ul>
                                     <li><a href="{{ asset('') }}">三角带分类</a>
                                         <ul>
-                                            <li><a href="">三维三角带三角带</a></li>
+                                            <li><a href="">三维三角带</a></li>
                                             <li><a href="">联组带</a></li>
                                             <li><a href="">普通三角带 </a></li>
                                             <li><a href="">普通加强型三角带 </a></li>
