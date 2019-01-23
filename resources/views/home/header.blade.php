@@ -3,9 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>三角带批发厂家价格_欧皮特三角带_</title>
-<meta name="keywords" content="三角带_欧皮特optibelt三角带_三角带价格_三角带厂家_三角带代理">
-<meta name="description" content="进口三角带,国产三角带零售招代理,直接国外进口,常年报关进口各种类型三角带">
+<title>三力士三角带_optibelt欧皮特三角带_上海三角带代理公司</title>
+<meta name="keywords" content="联组三角带_盖茨多楔带_农机三角带_spc三角带_三角带厂家_进口三角带_三角带价格_山牌三角带_三力士三角带_带厂家
+德国三角带_聚氨酯三角带_三星三角带_杰森三角带_欧皮特三角带">
+<meta name="description" content="上海三角带公司是国内三角带代理企业,主要代理产品包括欧皮特optibelt动力带,三力士传动带,盖茨三角带,联组三角带,农机三角带等传动设备输送设备的生产代理厂家">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Place favicon.ico in the root directory -->
 <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
