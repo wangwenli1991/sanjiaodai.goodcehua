@@ -272,13 +272,15 @@
                     <!-- footer-widget start -->
                     <div class="col-lg-3 col-md-3 hidden-sm">
                         <div class="footer-widget">
-                            <h3>购买三角带附带的服务</h3>
+                            <h3>标准梯形接头三角带型号分类</h3>
                             <ul class="footer-menu">
-                                <li><a href="#">报价</a></li>
-                                <li><a href="#">规格说明</a></li>
-                                <li><a href="#">使用说明</a></li>
-                                <li><a href="#">维护保养</a></li>
-                                <li><a href="#">二次购买</a></li>
+                                <li><a href="#">O型断面最小三角带</a></li>
+                                <li><a href="#">A型断面尺寸顶宽13厚8mm</a></li>
+                                <li><a href="#">B型型断面尺寸顶宽17厚10.5mm</a></li>
+                                <li><a href="#">C型型断面尺寸顶宽22厚13.5mm</a></li>
+                                <li><a href="#">D型型断面尺寸顶宽21.5厚19mm</a></li>
+                                <li><a href="#">E型号型断面尺寸顶宽38厚25.5mm</a></li>
+                                <li><a href="#">F型号</a></li>
                             </ul>
                         </div>
                     </div>
@@ -286,13 +288,12 @@
                     <!-- footer-widget start -->
                     <div class="col-lg-3 col-md-3 col-sm-4">
                         <div class="footer-widget">
-                            <h3>其它传送带种类</h3>
+                            <h3>窄V带规格型号</h3>
                             <ul class="footer-menu">
-                                <li><a href="#">三角传送带</a></li>
-                                <li><a href="#">聚氨酯传送带</a></li>
-                                <li><a href="#">毛毡带</a></li>
-                                <li><a href="#">同步带</a></li>
-                                <li><a href="#">输送带</a></li>
+                                <li><a href="#">SPZ</a></li>
+                                <li><a href="#">SPA</a></li>
+                                <li><a href="#">SPB</a></li>
+                                <li><a href="#">SPC</a></li>
                             </ul>
                         </div>
                     </div>
@@ -300,7 +301,7 @@
                     <!-- footer-widget start -->
                     <div class="col-lg-3 col-md-3 col-sm-4">
                         <div class="footer-widget">
-                            <h3>联系我们购买</h3>
+                            <h3>生产厂家联系地址</h3>
                             <ul class="footer-contact">
                                 <li>
                                     <i class="fa fa-map-marker"> </i>
