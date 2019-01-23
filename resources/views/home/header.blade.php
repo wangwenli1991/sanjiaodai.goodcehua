@@ -202,11 +202,39 @@
                         <div class="main-menu">
                             <nav>
                                 <ul>
-                                    <li><a href="{{ asset('') }}">三角带厂家</a></li>
-                                    <li><a href="{{ asset('/about') }}">三角带规格型号</a></li>
-                                    <li><a href="{{ asset('/shoplist') }}">进口三角带</a></li>
-                                    <li><a href="{{ asset('/single') }}">输送带型号</a></li>
-                                    <li><a href="{{ asset('/contact') }}">传送带介绍</a></li>
+                                    <li><a href="{{ asset('') }}">三角带分类</a>
+                                        <ul>
+                                            <li><a href="">三维三角带三角带</a></li>
+                                            <li><a href="">联组带</a></li>
+                                            <li><a href="">普通三角带 </a></li>
+                                            <li><a href="">普通加强型三角带 </a></li>
+                                            <li><a href="">窄V带 </a></li>
+                                            <li><a href="">强力窄V带 </a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="{{ asset('/about') }}">品牌种类</a>
+                                        <ul>
+                                            <li><a href="">德国进口欧皮特OPTIBELT</a></li>
+                                            <li><a href="">美国进口盖茨GATES</a></li>
+                                            <li><a href="">日本三星</a></li>
+                                            <li><a href="">日本阪东BANDO</a></li>
+                                            <li><a href="">国产时新</a></li>
+                                            <li><a href="">国产凯欧</a></li>
+                                            <li><a href="">国产天顿</a></li>
+                                            <li><a href="">国产骆驼牌</a></li>
+                                            <li><a href="">国产三维</a></li>
+                                            <li><a href="">国产利莱诺</a></li>
+                                            <li><a href="">国产三强</a></li>
+                                            <li><a href="">国产久驰</a></li>
+                                            <li><a href="">国产pix</a></li>
+                                            <li><a href="">国产三力士</a></li>
+                                            <li><a href="">国产久龙</a></li>
+                                            <li><a href="">国产三维</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="{{ asset('/shoplist') }}"></a></li>
+                                    <li><a href="{{ asset('/single') }}"></a></li>
+                                    <li><a href="{{ asset('/contact') }}"></a></li>
                                 </ul>
                             </nav>
                         </div>
